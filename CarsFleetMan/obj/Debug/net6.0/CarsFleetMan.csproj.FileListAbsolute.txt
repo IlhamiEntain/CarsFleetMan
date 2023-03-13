@@ -1,0 +1,15 @@
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.csproj.AssemblyReference.cache
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.AssemblyInfoInputs.cache
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.AssemblyInfo.cs
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.csproj.CoreCompileInputs.cache
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\bin\Debug\net6.0\CarsFleetMan.exe
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\bin\Debug\net6.0\CarsFleetMan.deps.json
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\bin\Debug\net6.0\CarsFleetMan.runtimeconfig.json
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\bin\Debug\net6.0\CarsFleetMan.dll
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\bin\Debug\net6.0\CarsFleetMan.pdb
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.dll
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\refint\CarsFleetMan.dll
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.pdb
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\CarsFleetMan.genruntimeconfig.cache
+C:\Users\ilhami.aktan\source\CarsFleetMan\CarsFleetMan\obj\Debug\net6.0\ref\CarsFleetMan.dll
